@@ -1,0 +1,6 @@
+23:38:32.211 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC -  Navigating to URL
+23:38:41.329 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC -  Navigating to URL
+23:38:52.179 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC -  Navigating to URL
+23:38:56.716 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC - Succesfully close browser
+23:41:14.766 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC - TestCase is Starting
+23:41:16.780 [main] INFO  Assigment.Payment_Form.Credit_Card_Payment_TC - Driver is instiallized

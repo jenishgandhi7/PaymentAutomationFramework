@@ -1,0 +1,4 @@
+PageObjects\paymentPage.class
+resources\base_config.class
+Assigment\Currency\App.class
+resources\ExtentReporterNG.class

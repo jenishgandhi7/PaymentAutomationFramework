@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Assigment.Payment_Form.Listeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Payment Form-TestCase(failed)">
+    <classes>
+      <class name="Assigment.Payment_Form.Credit_Card_Payment_TC">
+        <methods>
+          <include name="CreditCardTestCase" invocation-numbers="2"/>
+          <include name="start"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Assigment.Payment_Form.Credit_Card_Payment_TC -->
+    </classes>
+  </test> <!-- Payment Form-TestCase(failed) -->
+</suite> <!-- Failed suite [Suite] -->

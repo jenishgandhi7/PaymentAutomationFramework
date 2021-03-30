@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="11" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-01T18:34:20 CST" name="Suite" finished-at="2021-02-01T18:36:48 CST" duration-ms="148098">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-02-01T18:34:20 CST" name="CucumberTest" finished-at="2021-02-01T18:36:48 CST" duration-ms="148098">
+      <class name="cucumberTestRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:34:20 CST" name="setUpClass" finished-at="2021-02-01T18:34:21 CST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:34:21 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:34:31 CST" duration-ms="10581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:34:31 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:34:41 CST" duration-ms="9899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:34:41 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:34:52 CST" duration-ms="10792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:34:52 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:02 CST" duration-ms="10646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:03 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:13 CST" duration-ms="10444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:13 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:23 CST" duration-ms="10276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:23 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:33 CST" duration-ms="9669" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [1129.0] but found [1129.3900146484375]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [1129.0] but found [1129.3900146484375]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEquals(Assert.java:671)
+at org.testng.Assert.assertEquals(Assert.java:684)
+at cucumberStepDefine.StepDefine.verify_that_converted_total_amount_with_avg_sell_price(StepDefine.java:43)
+at ✽.Verify that converted total Amount with Avg Sell price(file:///D:/Selenium/Currency/src/test/java/features/currencyConv.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:33 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:44 CST" duration-ms="11352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:44 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:35:55 CST" duration-ms="10489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:35:55 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:36:05 CST" duration-ms="10603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:36:05 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:36:17 CST" duration-ms="11322" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [960.0] but found [1000.0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [960.0] but found [1000.0]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEquals(Assert.java:671)
+at org.testng.Assert.assertEquals(Assert.java:684)
+at cucumberStepDefine.StepDefine.verify_that_converted_total_amount_with_avg_sell_and_percentage_price(StepDefine.java:51)
+at ✽.Verify that converted total Amount with Avg Sell and Percentage 4 price(file:///D:/Selenium/Currency/src/test/java/features/currencyConv.feature:28)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:36:17 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:36:27 CST" duration-ms="10149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:36:27 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:36:38 CST" duration-ms="10731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:36:38 CST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-01T18:36:48 CST" duration-ms="10818" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Converting Currency with InraBank Charges and get sell price"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Conversion of Currency for different country]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [1095.1300048828125] but found [1129.3900146484375]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [1095.1300048828125] but found [1129.3900146484375]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEquals(Assert.java:671)
+at org.testng.Assert.assertEquals(Assert.java:684)
+at cucumberStepDefine.StepDefine.verify_that_converted_total_amount_with_avg_sell_and_percentage_price(StepDefine.java:51)
+at ✽.Verify that converted total Amount with Avg Sell and Percentage 3 price(file:///D:/Selenium/Currency/src/test/java/features/currencyConv.feature:28)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cucumberTestRunner.TestRunner@2cf3d63b]" started-at="2021-02-01T18:36:48 CST" name="tearDownClass" finished-at="2021-02-01T18:36:48 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberTestRunner.TestRunner -->
+    </test> <!-- CucumberTest -->
+  </suite> <!-- Suite -->
+</testng-results>
